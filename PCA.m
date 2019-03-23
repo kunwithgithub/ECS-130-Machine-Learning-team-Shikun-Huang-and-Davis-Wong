@@ -1,4 +1,5 @@
 %author: Shikun Huang, Davis Wong
+%professor: Zhaojun Bai
 clear;
 load mnistdata;
 
